@@ -1,0 +1,29 @@
+.central {text-align: center;}
+h1{color:blue; font-size: 20px;}
+p{background-color:crimson; font-size: 20px;}
+ul{background-color:chartreuse; font-size: 20px}
+.supertitulo{font-size: 50px}
+#titulo{font-size: 30px}
+#titulopc li{ color:burlywood; }
+#titulops li{color:aqua}
+#tituloxbox li{color:blueviolet}
+p{ text-align: right;}
+
+
+body{background-image:url(eldenring.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /*fazendo teste */
+}
+
+.caixa{
+    margin: 10px;
+    margin-top: 50px;
+    padding: 20px;
+    border: 4px solid black;
+    width: fit-content;
+    background-color: coral;
+
+}
+
+
